@@ -1,8 +1,8 @@
 ## Summary-Document
 ## 本记录记录本人在南京感动科技-智慧交通研究中心进行为期3个多月的实习生活
 #### 编写专利两篇
-  -- patent11 基于大模型嵌入Transformer对视频进行交通事件识别的一种方法
-  -- patent12 交通领域云值机特情语音转文字正确率提升的方案、实施装置
+  -- patent11: 基于大模型嵌入Transformer对视频进行交通事件识别的一种方法
+  -- patent12: 交通领域云值机特情语音转文字正确率提升的方案、实施装置
 #### 南部高速
   -- xml至json文档格式转换工作
 #### 道路标定系统
@@ -21,9 +21,10 @@
   -- whisper, chatglm模型部署
   -- lora微调模型
 #### ToolLLaMA的训练预研
-  -- API数据集的由来 - rapidapi
-  -- query数据集的由来 - chatgpt3.5自底向上
+  -- API数据集的由来-rapidapi
+  -- query数据集的由来-chatgpt3.5自底向上
   -- 基架LLaMA 微调策略Lora bf16
+  
 
   
 
